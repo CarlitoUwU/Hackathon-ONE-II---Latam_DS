@@ -28,7 +28,23 @@ Google Colab (Colaboratory) es un servicio gratuito de Google que permite escrib
 
 ---
 
+## EDA
 
+---
+
+## TF-IDF
+
+---
+
+## Modelo de Aprendizaje
+
+---
+
+## Joblib
+
+---
+
+## Conclusiones
 
 
 
