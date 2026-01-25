@@ -5,12 +5,12 @@
 ## Índice
 
 1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Google Colaboratory](#galería-de-visualización)
-3. [EDA](#características-principales)
-4. [TF-IDF](#arquitectura-del-sistema)
-5. [Modelo de Aprendizaje](#guía-de-inicio-rápido)
-6. [Joblib](#documentación-de-api)
-7. [Conclusiones](#autores)
+2. [Google Colaboratory](#google-colaboratory)
+3. [EDA](#eda)
+4. [TF-IDF](#tf-idf)
+5. [Modelo de Aprendizaje](#modelo-de-aprendizaje)
+6. [Joblib](#joblib)
+7. [Conclusiones](#conclusiones)
 
 ---
 
